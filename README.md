@@ -1,0 +1,1 @@
+This project aims to detect emotions in tweets, where each sentence may contain multiple emotions. The model is implemented in a Jupyter Notebook, and the main app is built using the Streamlit library for an interactive user interface.
